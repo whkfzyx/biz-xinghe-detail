@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xxx/biz-xinghe-detail.git"
+    "url": "git+https://github.com/whkfzyx/biz-xinghe-detail.git"
   },
   "keywords": [
     "xinghe"
@@ -16,7 +16,7 @@
   "author": "liuxuan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xxx/biz-xinghe-detail/issues"
+    "url": "https://github.com/whkfzyx/biz-xinghe-detail/issues"
   },
-  "homepage": "https://github.com/xxx/biz-xinghe-detail#readme"
+  "homepage": "https://github.com/whkfzyx/biz-xinghe-detail#readme"
 }
